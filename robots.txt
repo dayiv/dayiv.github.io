@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dayiv.csgad.com/dze/sitemap.xml.gz
